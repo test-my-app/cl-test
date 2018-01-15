@@ -2,9 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.1]
+## [0.2.0]
 
-Oh no, I did it again!:scream:
+#### changed
+
+-   Update CHANGELOG.md
+    Just crap
 
 #### fixed
 
@@ -13,7 +16,7 @@ Oh no, I did it again!:scream:
 
 
 
-Now with annotation!
+
 
 powered by [changelox](https://changelox.com)
 
