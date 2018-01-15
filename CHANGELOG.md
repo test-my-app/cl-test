@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
 -   testing the hell out of this thing
     We fixed a few things @ changelox and hopefully this will work now.
 
--   I'm nasty, not obsolete!
+
 
 
 
